@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>网站美化1</title>
-    <url>/2024/11/09/%E7%BD%91%E7%AB%99%E7%BE%8E%E5%8C%961/</url>
-    <content><![CDATA[<p>###弄了两天###</p>
-<p>加了看板娘，主题从next换成了butterfly（主要看到一个<a href="https://akilar.top/">大佬的博客</a>）。</p>
-]]></content>
-      <categories>
-        <category>埋头苦干</category>
-      </categories>
-      <tags>
-        <tag>美化</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第一篇博文</title>
     <url>/2024/11/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
     <content><![CDATA[<p>终于搭建好了，前面卡在了本地部署github，删了重做几次，总算好了。</p>
@@ -23,6 +10,30 @@
       </categories>
       <tags>
         <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站美化1</title>
+    <url>/2024/11/09/%E7%BD%91%E7%AB%99%E7%BE%8E%E5%8C%961/</url>
+    <content><![CDATA[<h3 id="弄了两天"><a href="#弄了两天" class="headerlink" title="弄了两天"></a>弄了两天</h3><p>加了看板娘，主题从next换成了butterfly（主要看到一个<a href="https://akilar.top/">大佬的博客</a>）。</p>
+]]></content>
+      <categories>
+        <category>埋头苦干</category>
+      </categories>
+      <tags>
+        <tag>美化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站美化2</title>
+    <url>/2024/11/10/%E7%BD%91%E7%AB%99%E7%BE%8E%E5%8C%962/</url>
+    <content><![CDATA[<p>把看板娘换到了右边，调整了看板娘工具显示的位置。</p>
+]]></content>
+      <categories>
+        <category>埋头苦干</category>
+      </categories>
+      <tags>
+        <tag>美化</tag>
       </tags>
   </entry>
 </search>
